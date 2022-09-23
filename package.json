@@ -1,0 +1,19 @@
+{
+  "name": "selenium-first-try",
+  "version": "1.0.0",
+  "description": "selenium first try",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium"
+  ],
+  "author": "pedro",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^104.0.0",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
